@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D Printing on Ignacio Delgado</title><link>https://ignaciodelgado.com/tags/3d-printing/</link><description>Recent content in 3D Printing on Ignacio Delgado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciodelgado.com/tags/3d-printing/index.xml" rel="self" type="application/rss+xml"/><item><title>DIY Robots: Hubert and Plotter</title><link>https://ignaciodelgado.com/spare-time/robots/</link><pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/spare-time/robots/</guid><description>&lt;img src="https://ignaciodelgado.com/spare-time/robots/robots.webp" alt="Featured image of post DIY Robots: Hubert and Plotter" />&lt;p>This page showcases two small robotics projects I&amp;rsquo;ve created: Hubert, a biped robot, and Plotter, a 2D drawing robot. Both were built using a combination of 3D printed parts and salvaged computer components.&lt;/p>
+&lt;h2 id="hubert-the-biped-robot">Hubert: The Biped Robot
+&lt;/h2>&lt;p>Hubert is a modified version of the Zowi biped robot, originally designed by BQ.
+&lt;img src="https://ignaciodelgado.com/spare-time/robots/robots3.webp"
+width="640"
+height="640"
+srcset="https://ignaciodelgado.com/spare-time/robots/robots3_hu12167573502506141505.webp 480w, https://ignaciodelgado.com/spare-time/robots/robots3_hu3495651296972488966.webp 1024w"
+loading="lazy"
+alt="Plotter the drawing robot"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+>&lt;/p>
+&lt;p>Key features of Hubert:&lt;/p>
+&lt;ul>
+&lt;li>Brown in color&lt;/li>
+&lt;li>Based on the Zowi biped robot design&lt;/li>
+&lt;li>Modified from the original BQ version&lt;/li>
+&lt;li>Controlled by Arduino&lt;/li>
+&lt;/ul>
+&lt;p>I ended up donating Hubert to my high school, where it can inspire other students interested in robotics.&lt;/p>
+&lt;h2 id="plotter-the-2d-drawing-robot">Plotter: The 2D Drawing Robot
+&lt;/h2>&lt;p>Plotter is a small project that functions like a 2D version of a 3D printer.&lt;/p>
+&lt;p>&lt;img src="https://ignaciodelgado.com/spare-time/robots/robots2.webp"
+width="750"
+height="563"
+srcset="https://ignaciodelgado.com/spare-time/robots/robots2_hu10921900598345006118.webp 480w, https://ignaciodelgado.com/spare-time/robots/robots2_hu12677605609262145993.webp 1024w"
+loading="lazy"
+alt="Hubert the biped robot"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="319px"
+>&lt;/p>
+&lt;p>Key features of Plotter:&lt;/p>
+&lt;ul>
+&lt;li>Can draw in 2D when given a pen or pencil&lt;/li>
+&lt;li>Built using 3D printed parts&lt;/li>
+&lt;li>Controlled by Arduino&lt;/li>
+&lt;/ul>
+&lt;p>Plotter can be used for creating simple drawings, signatures, or even as a base for more complex 2D CNC projects.&lt;/p>
+&lt;h2 id="building-process">Building Process
+&lt;/h2>&lt;p>Both robots were created using a combination of:&lt;/p>
+&lt;ul>
+&lt;li>3D printed parts&lt;/li>
+&lt;li>Scrap computer components&lt;/li>
+&lt;li>Arduino boards for control&lt;/li>
+&lt;/ul>
+&lt;p>This approach to building robots demonstrates how you can create interesting and functional projects with a mix of new technology (3D printing) and recycled materials.&lt;/p>
+&lt;p>These projects show that with some creativity and basic electronics knowledge, you can build fun and educational robots using readily available materials and open-source designs.&lt;/p></description></item></channel></rss>

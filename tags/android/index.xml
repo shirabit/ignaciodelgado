@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on Ignacio Delgado</title><link>https://ignaciodelgado.com/tags/android/</link><description>Recent content in Android on Ignacio Delgado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciodelgado.com/tags/android/index.xml" rel="self" type="application/rss+xml"/><item><title>CountIn: Real-Time Occupancy Management</title><link>https://ignaciodelgado.com/p/countin-real-time-occupancy-management/</link><pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/p/countin-real-time-occupancy-management/</guid><description>&lt;img src="https://ignaciodelgado.com/p/countin-real-time-occupancy-management/countIn.webp" alt="Featured image of post CountIn: Real-Time Occupancy Management" />&lt;p>CountIn is an innovative Android application designed to monitor and manage real-time occupancy for various venues and events, enhancing safety and efficiency through synchronized data and staff collaboration.&lt;/p>
+&lt;h2 id="source-code">Source Code
+&lt;/h2>&lt;p>The source code for CountIn can be viewed and checked out at &lt;a class="link" href="https://github.com/igdel/countin-android" target="_blank" rel="noopener"
+>github.com/igdel/countin-android&lt;/a>.&lt;/p>
+&lt;h2 id="the-challenge">The Challenge
+&lt;/h2>&lt;p>Managing occupancy in real-time for various spaces such as clubs, events, and sports matches presents several challenges:&lt;/p>
+&lt;ul>
+&lt;li>Ensuring accurate headcounts to prevent overcrowding and maintain safety standards&lt;/li>
+&lt;li>Coordinating multiple staff members across different entry points&lt;/li>
+&lt;li>Reacting quickly to changing occupancy levels&lt;/li>
+&lt;li>Complying with capacity regulations and safety requirements&lt;/li>
+&lt;/ul>
+&lt;h2 id="our-solution-countin">Our Solution: CountIn
+&lt;/h2>&lt;p>CountIn is a sophisticated Android application designed to address these challenges by providing a robust, real-time occupancy management system. It empowers event organizers and venue managers to maintain optimal crowd levels, enhance safety, and improve overall event experiences.&lt;/p>
+&lt;h3 id="key-features">Key Features:
+&lt;/h3>&lt;ol>
+&lt;li>&lt;strong>Real-Time Occupancy Tracking&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Staff Collaboration&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Intelligent Alert System&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>User-Friendly Interface&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Offline Functionality&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;h2 id="technical-architecture">Technical Architecture
+&lt;/h2>&lt;p>CountIn is built on a solid foundation of modern Android development practices and clean architecture principles:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Clean Architecture&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Dependency Injection&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Asynchronous Programming&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Reactive Programming&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Design Patterns&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;h2 id="project-status">Project Status
+&lt;/h2>&lt;p>CountIn is currently in active development. The core functionality is being implemented and refined, with a focus on creating a stable and efficient minimum viable product (MVP).&lt;/p>
+&lt;h2 id="future-roadmap">Future Roadmap
+&lt;/h2>&lt;p>As CountIn evolves, we plan to introduce several enhancements:&lt;/p>
+&lt;ol>
+&lt;li>Advanced Analytics&lt;/li>
+&lt;li>Customization Options&lt;/li>
+&lt;li>External Integrations&lt;/li>
+&lt;li>Enhanced Security&lt;/li>
+&lt;li>Localization&lt;/li>
+&lt;li>Accessibility Improvements&lt;/li>
+&lt;li>Cross-Platform Expansion&lt;/li>
+&lt;/ol>
+&lt;h2 id="for-recruiters-and-collaborators">For Recruiters and Collaborators
+&lt;/h2>&lt;p>This project showcases my approach to Android development, demonstrating:&lt;/p>
+&lt;ul>
+&lt;li>Proficiency in Kotlin and modern Android technologies&lt;/li>
+&lt;li>Application of clean architecture and SOLID principles&lt;/li>
+&lt;li>Implementation of reactive and asynchronous programming techniques&lt;/li>
+&lt;li>Commitment to creating user-centric, scalable solutions&lt;/li>
+&lt;/ul>
+&lt;p>CountIn aims to revolutionize event management by providing a powerful, user-friendly tool for real-time occupancy tracking. By enhancing safety, improving staff coordination, and offering valuable insights, CountIn is set to become an indispensable asset for venue managers and event organizers alike.&lt;/p></description></item><item><title>Cardable: Redefining Business Cards, from Idea to Real World</title><link>https://ignaciodelgado.com/p/cardable-redefining-business-cards-from-idea-to-real-world/</link><pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/p/cardable-redefining-business-cards-from-idea-to-real-world/</guid><description>&lt;img src="https://ignaciodelgado.com/p/cardable-redefining-business-cards-from-idea-to-real-world/Cardable.webp" alt="Featured image of post Cardable: Redefining Business Cards, from Idea to Real World" />&lt;p>Cardable is an innovative project aimed at redefining the way we exchange business cards. It&amp;rsquo;s an Android application designed to make sharing contact information easier, faster, and more environmentally friendly.&lt;/p>
+&lt;h2 id="the-problem">The problem
+&lt;/h2>&lt;p>Back in 2019, after attending several conferences and events, I found myself with a hefty stack of business cards. This realization sparked an idea to streamline the process of exchanging contact information while reducing paper waste.&lt;/p>
+&lt;h2 id="the-solution">The solution
+&lt;/h2>&lt;p>An app for exchanging contact information as quick as scanning a QR code or with an NFC tap.&lt;/p>
+&lt;p>Key features include:&lt;/p>
+&lt;ul>
+&lt;li>QR code scanning for quick information exchange&lt;/li>
+&lt;li>NFC tap functionality for seamless sharing&lt;/li>
+&lt;li>Digital storage of contact information&lt;/li>
+&lt;li>Reduction in paper waste from traditional business cards&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status">Project Status
+&lt;/h2>&lt;p>The project is currently in active development and use.&lt;/p>
+&lt;h2 id="project-showcase-and-growth">Project Showcase and Growth
+&lt;/h2>&lt;p>I had the opportunity to showcase Cardable at a local Hackerspace event. The response was overwhelming:&lt;/p>
+&lt;ul>
+&lt;li>The Hackerspace was filled to capacity for the presentation&lt;/li>
+&lt;li>We created digital business cards for all attendees&lt;/li>
+&lt;li>The success of the event led to the creation of cardable.org&lt;/li>
+&lt;/ul>
+&lt;h2 id="real-world-impact">Real-World Impact
+&lt;/h2>&lt;p>Cardable has grown beyond its initial concept and is now fulfilling a real need in the business community:&lt;/p>
+&lt;ul>
+&lt;li>We&amp;rsquo;ve helped numerous businesses transition to digital business cards&lt;/li>
+&lt;li>Expanded our offerings to include metal and wooden business cards with integrated NFC and QR codes&lt;/li>
+&lt;li>These physical cards maintain a premium feel while offering the convenience of digital information sharing&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used
+&lt;/h2>&lt;p>The project utilizes:&lt;/p>
+&lt;ul>
+&lt;li>Android&lt;/li>
+&lt;li>Kotlin&lt;/li>
+&lt;li>Graphic Design&lt;/li>
+&lt;li>UX/UI Design&lt;/li>
+&lt;li>NFC Technology&lt;/li>
+&lt;li>QR Code Generation&lt;/li>
+&lt;/ul>
+&lt;p>Cardable has evolved from a concept to a practical solution, modernizing traditional business cards and making networking more efficient and environmentally friendly. Its success demonstrates the real-world demand for innovative contact-sharing solutions.&lt;/p></description></item><item><title>animo: A mood tracking app</title><link>https://ignaciodelgado.com/p/animo-a-mood-tracking-app/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/p/animo-a-mood-tracking-app/</guid><description>&lt;img src="https://ignaciodelgado.com/p/animo-a-mood-tracking-app/animo.webp" alt="Featured image of post animo: A mood tracking app" />&lt;p>animo is a small project aimed at improving the engagement of mental health patients in therapist follow-ups. It&amp;rsquo;s an Android application designed to enhance the connection between therapists and patients.&lt;/p>
+&lt;h2 id="the-problem">The problem
+&lt;/h2>&lt;p>When I started going to the psychologist, I found dealing with a lot of paper exercises a hassle. Therefore, I wanted to make the process more efficient. Moreover, adding some new features such as mood tracking.&lt;/p>
+&lt;h2 id="the-solution">The solution
+&lt;/h2>&lt;p>An application that helps to improve the connection between the therapist and the patient.&lt;/p>
+&lt;p>Key features include:&lt;/p>
+&lt;ul>
+&lt;li>Digital exercises to replace paper-based ones&lt;/li>
+&lt;li>Mood tracking functionality&lt;/li>
+&lt;li>Enhanced communication between therapist and patient&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status">Project Status
+&lt;/h2>&lt;p>The project is currently in the conceptual stage:&lt;/p>
+&lt;ul>
+&lt;li>Just an idea with a few parts designed&lt;/li>
+&lt;li>Further development and implementation are pending&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used
+&lt;/h2>&lt;p>The project is planned to use:&lt;/p>
+&lt;ul>
+&lt;li>Android&lt;/li>
+&lt;li>Kotlin&lt;/li>
+&lt;/ul>
+&lt;p>animo aims to modernize and streamline the therapy process, making it more engaging and efficient for both patients and therapists.&lt;/p></description></item></channel></rss>

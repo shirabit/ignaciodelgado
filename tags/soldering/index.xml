@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Soldering on Ignacio Delgado</title><link>https://ignaciodelgado.com/tags/soldering/</link><description>Recent content in Soldering on Ignacio Delgado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciodelgado.com/tags/soldering/index.xml" rel="self" type="application/rss+xml"/><item><title>One from Two: Reviving a Nintendo DS Lite</title><link>https://ignaciodelgado.com/spare-time/nintendo-ds/</link><pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/spare-time/nintendo-ds/</guid><description>&lt;img src="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-2.webp" alt="Featured image of post One from Two: Reviving a Nintendo DS Lite" />&lt;p>&lt;img src="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5.webp"
+width="4624"
+height="2604"
+srcset="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5_hu461358944615377252.webp 480w, https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5_hu8267042283548644268.webp 1024w"
+loading="lazy"
+alt="Fixed Nintendo DS Lite"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>I took two broken Nintendo DS Lite consoles and made one that works. It was my first try at fixing electronics, and it worked!&lt;/p>
+&lt;h2 id="the-problem">The Problem
+&lt;/h2>&lt;p>My old Nintendo DS Lite had been broken since I was a kid. I wanted to fix it, but I didn&amp;rsquo;t know how.&lt;/p>
+&lt;h2 id="how-i-fixed-it">How I Fixed It
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Getting Parts&lt;/strong>: I bought another broken Nintendo DS Lite cheap. It had different problems from mine.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Mixing Parts&lt;/strong>: I opened up both Nintendo DS Lites. I figured out which parts still worked in each one.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Soldering&lt;/strong>: The hardest part was soldering a tiny switch. I didn&amp;rsquo;t have the right tools, but I tried anyway.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Putting It Back Together&lt;/strong>: After soldering, I put all the working parts into one Nintendo DS Lite.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="what-happened">What Happened
+&lt;/h2>&lt;p>To my surprise, it worked! When I turned it on and saw it working, I felt really excited. I couldn&amp;rsquo;t believe I had fixed it on my first try.&lt;/p>
+&lt;p>This project taught me that it&amp;rsquo;s fun to fix old stuff. Sometimes, giving it a try can lead to great results, even if you&amp;rsquo;re not an expert.&lt;/p>
+&lt;h2 id="pictures">Pictures
+&lt;/h2>&lt;p>Here are some photos from when I was fixing it:&lt;/p>
+&lt;p>&lt;img src="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-2.webp"
+width="4624"
+height="2604"
+srcset="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-2_hu13220713626703876616.webp 480w, https://ignaciodelgado.com/spare-time/nintendo-ds/ds-2_hu18074642327657233496.webp 1024w"
+loading="lazy"
+alt="Taking Apart the DS"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-3.webp"
+width="4624"
+height="2604"
+srcset="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-3_hu2102023235466601986.webp 480w, https://ignaciodelgado.com/spare-time/nintendo-ds/ds-3_hu4162144956830125797.webp 1024w"
+loading="lazy"
+alt="Inside the DS"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;p>&lt;img src="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5.webp"
+width="4624"
+height="2604"
+srcset="https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5_hu461358944615377252.webp 480w, https://ignaciodelgado.com/spare-time/nintendo-ds/ds-5_hu8267042283548644268.webp 1024w"
+loading="lazy"
+alt="The Fixed DS"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p></description></item></channel></rss>

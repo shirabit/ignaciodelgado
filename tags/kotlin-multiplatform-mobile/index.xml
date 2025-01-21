@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kotlin Multiplatform Mobile on Ignacio Delgado</title><link>https://ignaciodelgado.com/tags/kotlin-multiplatform-mobile/</link><description>Recent content in Kotlin Multiplatform Mobile on Ignacio Delgado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciodelgado.com/tags/kotlin-multiplatform-mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>animo: A mood tracking app</title><link>https://ignaciodelgado.com/p/animo-a-mood-tracking-app/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/p/animo-a-mood-tracking-app/</guid><description>&lt;img src="https://ignaciodelgado.com/p/animo-a-mood-tracking-app/animo.webp" alt="Featured image of post animo: A mood tracking app" />&lt;p>animo is a small project aimed at improving the engagement of mental health patients in therapist follow-ups. It&amp;rsquo;s an Android application designed to enhance the connection between therapists and patients.&lt;/p>
+&lt;h2 id="the-problem">The problem
+&lt;/h2>&lt;p>When I started going to the psychologist, I found dealing with a lot of paper exercises a hassle. Therefore, I wanted to make the process more efficient. Moreover, adding some new features such as mood tracking.&lt;/p>
+&lt;h2 id="the-solution">The solution
+&lt;/h2>&lt;p>An application that helps to improve the connection between the therapist and the patient.&lt;/p>
+&lt;p>Key features include:&lt;/p>
+&lt;ul>
+&lt;li>Digital exercises to replace paper-based ones&lt;/li>
+&lt;li>Mood tracking functionality&lt;/li>
+&lt;li>Enhanced communication between therapist and patient&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-status">Project Status
+&lt;/h2>&lt;p>The project is currently in the conceptual stage:&lt;/p>
+&lt;ul>
+&lt;li>Just an idea with a few parts designed&lt;/li>
+&lt;li>Further development and implementation are pending&lt;/li>
+&lt;/ul>
+&lt;h2 id="technologies-used">Technologies Used
+&lt;/h2>&lt;p>The project is planned to use:&lt;/p>
+&lt;ul>
+&lt;li>Android&lt;/li>
+&lt;li>Kotlin&lt;/li>
+&lt;/ul>
+&lt;p>animo aims to modernize and streamline the therapy process, making it more engaging and efficient for both patients and therapists.&lt;/p></description></item></channel></rss>

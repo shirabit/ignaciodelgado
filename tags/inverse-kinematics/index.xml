@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Inverse Kinematics on Ignacio Delgado</title><link>https://ignaciodelgado.com/tags/inverse-kinematics/</link><description>Recent content in Inverse Kinematics on Ignacio Delgado</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ignaciodelgado.com/tags/inverse-kinematics/index.xml" rel="self" type="application/rss+xml"/><item><title>Hexy: My Journey into Hexapod Robotics</title><link>https://ignaciodelgado.com/spare-time/hexy/</link><pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate><guid>https://ignaciodelgado.com/spare-time/hexy/</guid><description>&lt;p>Hexy is a small hexapod robot that I purchased and assembled. This project served as an exciting platform for me to delve into the world of robotics and gain hands-on experience with inverse kinematics.&lt;/p>
+&lt;h2 id="the-project">The Project
+&lt;/h2>&lt;p>Hexy is more than just a toy; it&amp;rsquo;s a sophisticated learning tool that allowed me to explore various aspects of robotics:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Assembly&lt;/strong>: I purchased Hexy as a kit and assembled it myself, gaining valuable experience in robot construction.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Hardware&lt;/strong>: The robot features a modified Arduino Mega board, which serves as its brain and control center.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Programming&lt;/strong>: I programmed Hexy using C++, honing my skills in embedded systems programming.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Inverse Kinematics&lt;/strong>: Perhaps the most fascinating aspect of this project was learning about inverse kinematics - the mathematical process of determining joint angles to achieve a desired position of the robot&amp;rsquo;s legs.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="learning-outcomes">Learning Outcomes
+&lt;/h2>&lt;p>Working with Hexy has been an incredible learning experience:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Practical Robotics&lt;/strong>: Gained hands-on experience in building and programming a real robot.&lt;/li>
+&lt;li>&lt;strong>Arduino&lt;/strong>: Deepened my understanding of Arduino-based systems and their applications in robotics.&lt;/li>
+&lt;li>&lt;strong>C++ for Embedded Systems&lt;/strong>: Improved my C++ programming skills in the context of embedded systems.&lt;/li>
+&lt;li>&lt;strong>Inverse Kinematics&lt;/strong>: Acquired a basic understanding of inverse kinematics and its crucial role in robot movement.&lt;/li>
+&lt;/ul>
+&lt;h2 id="future-plans">Future Plans
+&lt;/h2>&lt;p>While Hexy has already taught me a lot, there&amp;rsquo;s always room for more learning and improvement:&lt;/p>
+&lt;ul>
+&lt;li>Implement more complex movement patterns&lt;/li>
+&lt;li>Integrate sensors for autonomous behavior&lt;/li>
+&lt;li>Explore machine learning applications for adaptive locomotion&lt;/li>
+&lt;/ul>
+&lt;p>Hexy has been an invaluable project in my journey into robotics. It&amp;rsquo;s not just about building a cool hexapod; it&amp;rsquo;s about the knowledge gained in mechanics, electronics, and programming. This project has sparked a deeper interest in robotics and laid a foundation for future, more complex robotic endeavors.&lt;/p></description></item></channel></rss>
