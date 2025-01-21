@@ -11,7 +11,6 @@ categories:
     - Projects
 ---
 
-![animo](animo.webp)
 
 animo is a small project aimed at improving the engagement of mental health patients in therapist follow-ups. It's an Android application designed to enhance the connection between therapists and patients.
 

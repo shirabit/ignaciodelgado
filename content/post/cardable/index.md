@@ -1,18 +1,4 @@
 ---
-title: "animo: A mood tracking app"
-image: animo.webp
-date: 2021-10-14
-description: A mood tracking app.
-tags:
-    - Android
-    - Kotlin
-    - Kotlin Multiplatform Mobile
-categories:
-    - Projects
----
-
-
----
 title: "Cardable: Redefining Business Cards, from Idea to Real World"
 image: Cardable.webp
 date: 2023-08-21
@@ -24,7 +10,7 @@ tags:
     - UX/UI Design
 categories:
     - Projects
- --
+---
 
 ![Cardable](cardable.webp)
 

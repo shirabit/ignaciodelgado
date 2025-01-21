@@ -1,18 +1,12 @@
 ---
 title: "My First Talk at Google DSC: A Journey in Public Speaking"
-slug: "google-dsc-talk"
 date: 2021-03-21
-draft: false
-featuredImg: ""
-description: 'Reflections on giving a talk at a local Developer Student Club'
+description: Reflections on giving a talk at a local Developer Student Club
 tags:
-  - Public Speaking
-  - Talks
-  - Tech Community
-author: Ignacio Delgado
-scrolltotop: true
-toc: true
-mathjax: false
+    - Public Speaking
+    - Tech Community
+categories:
+    - Talks
 ---
 
 I had the honor of giving a small talk at a local Developer Student Club (DSC) in collaboration with other universities, including Cartagena's Polytechnic University. It was an **amazing experience** that left me feeling accomplished and eager for more opportunities to speak publicly.

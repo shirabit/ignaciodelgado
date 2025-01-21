@@ -1,19 +1,15 @@
 ---
 title: "One from Two: Reviving a Nintendo DS Lite"
-slug: "nintendo-ds-repair"
+image: ds-2.webp
 date: 2018-12-30
-draft: false
-description: 'How I made one working Nintendo DS Lite from two broken ones.'
+description: How I made one working Nintendo DS Lite from two broken ones.
 tags:
-  - Electronics
-  - Repair
-  - Soldering
-  - Nintendo
-  - Fun Project
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Electronics
+    - Repair
+    - Soldering
+    - Nintendo
+categories:
+    - Spare time
 ---
 
 ![Fixed Nintendo DS Lite](ds-5.webp)

@@ -1,18 +1,15 @@
 ---
 title: "Nomble: Find the Perfect Baby Name"
-slug: "nomble"
+image: Nomble.webp
 date: 2023-08-17
-draft: false
-description: 'A comprehensive platform for discovering and exploring baby names.'
+description: A comprehensive platform for discovering and exploring baby names.
 tags:
-  - Web Application
-  - NextJS
-  - HTML/CSS
-  - Fun Project
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Web Application
+    - NextJS
+    - HTML/CSS
+    - Fun Project
+categories:
+    - Project
 ---
 
 ![Nomble logo depicting a stylized baby rattle](Nomble.webp)

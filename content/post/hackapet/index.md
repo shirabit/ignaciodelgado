@@ -1,18 +1,11 @@
 ---
-slug: hackapet
-date: '2023-12-14T00:00:00.000Z'
-draft: false
-featuredImg: ''
+title: 'Hackapet: Altruistic Software for Animal Shelters'
+image: hackapet.webp
+date: 2025-01-01
 description: An overview of the Hackapet project
 tags:
   - Software Development
   - Leadership
-  - Altruism
-author: Ignacio Delgado
-scrolltotop: true
-toc: true
-mathjax: false
-title: 'Hackapet: Altruistic Software for Animal Shelters'
 ---
 
 # [https://hackapet.org](https://hackapet.org)
@@ -61,7 +54,7 @@ If you want to help, write us at [info@hackapet.com](mailto:info@hackapet.com).
 
 ### 22-08-2022
 
-Hackapet started in December 2023, as a simple idea for connecting potential pet adopters with pet shelters, now it is going to be a suite of tools for pet shelters and has over 16 members. I am truly proud of what this has come to.
+Hackapet started in December 2023, as a simple idea for connecting potential pet adopters with pet shelters, now it is going to be a suite of tools for pet shelters and has over 6 members. I am truly proud of what this has come to.
 
 I just want to thank everyone for staying here strong, and we will deliver the first proof of concept soon, we first have to have more meetings with pet shelters and improve on the ideas.
 

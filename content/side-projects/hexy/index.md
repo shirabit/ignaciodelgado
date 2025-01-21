@@ -9,7 +9,7 @@ tags:
     - Arduino
     - Inverse Kinematics
 categories:
-    - Spare time projects
+    - Spare time
 ---
 
 ![Hexy in action](hexy.gif)

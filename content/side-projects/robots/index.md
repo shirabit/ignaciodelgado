@@ -1,18 +1,15 @@
 ---
 title: "DIY Robots: Hubert and Plotter"
-slug: "robots"
+image: robots.webp
 date: 2018-12-03
-draft: false
-description: 'Small robotics projects assembled from 3D printed parts and scrap computer components.'
+description: Small robotics projects assembled from 3D printed parts and scrap computer components.
 tags:
-  - Hobby robotics
-  - Arduino
-  - 3D printing
-  - Fun Project
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Hobby robotics
+    - Arduino
+    - 3D printing
+    - Fun Project
+categories:
+    - Side projects
 ---
 
 ![Hubert and Plotter robots](robots.webp)
