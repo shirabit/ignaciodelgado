@@ -7,6 +7,7 @@ tags:
     - Tech Community
 categories:
     - Talks
+    - Spare time
 ---
 
 I had the honor of giving a small talk at a local Developer Student Club (DSC) in collaboration with other universities, including Cartagena's Polytechnic University. It was an **amazing experience** that left me feeling accomplished and eager for more opportunities to speak publicly.

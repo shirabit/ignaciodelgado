@@ -12,7 +12,6 @@ categories:
     - Projects
 ---
 
-![CountIn](countIn.webp)
 
 CountIn is an innovative Android application designed to monitor and manage real-time occupancy for various venues and events, enhancing safety and efficiency through synchronized data and staff collaboration.
 

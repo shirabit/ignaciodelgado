@@ -1,5 +1,5 @@
 ---
-title: Side projects
+title: Spare time
 menu:
     main: 
         weight: 3

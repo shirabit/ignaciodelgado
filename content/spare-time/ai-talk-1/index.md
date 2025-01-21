@@ -8,11 +8,11 @@ tags:
     - Public Speaking
     - Python
 categories:
-    - Talks 
+    - Talks
+    - Spare time
 ---
 
 
-![AI](ai.webp "AI Talk")
 
 (credits to Enrique Domínguez, co-author of the talk)
 

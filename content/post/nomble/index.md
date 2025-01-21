@@ -7,12 +7,10 @@ tags:
     - Web Application
     - NextJS
     - HTML/CSS
-    - Fun Project
 categories:
-    - Project
+    - Projects
 ---
 
-![Nomble logo depicting a stylized baby rattle](Nomble.webp)
 
 
 Nomble is a comprehensive web platform designed to simplify and enrich the baby-naming process. It offers a variety of tools and resources to help expectant parents discover, explore, and decide on the perfect name for their child.

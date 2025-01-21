@@ -12,7 +12,6 @@ categories:
     - Projects
 ---
 
-![Cardable](cardable.webp)
 
 Cardable is an innovative project aimed at redefining the way we exchange business cards. It's an Android application designed to make sharing contact information easier, faster, and more environmentally friendly.
 

@@ -7,12 +7,10 @@ tags:
     - Hobby robotics
     - Arduino
     - 3D printing
-    - Fun Project
 categories:
-    - Side projects
+    - Spare time
 ---
 
-![Hubert and Plotter robots](robots.webp)
 
 
 This page showcases two small robotics projects I've created: Hubert, a biped robot, and Plotter, a 2D drawing robot. Both were built using a combination of 3D printed parts and salvaged computer components.

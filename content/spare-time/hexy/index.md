@@ -12,7 +12,6 @@ categories:
     - Spare time
 ---
 
-![Hexy in action](hexy.gif)
 
 
 Hexy is a small hexapod robot that I purchased and assembled. This project served as an exciting platform for me to delve into the world of robotics and gain hands-on experience with inverse kinematics.
