@@ -1,17 +1,14 @@
 ---
 title: "animo: A mood tracking app"
-slug: "animo"
+image: animo.webp
 date: 2021-10-14
-draft: false
-description: 'A mood tracking app.'
+description: A mood tracking app.
 tags:
-  - Android
-  - Kotlin
-  - Kotlin Multiplatform Mobile
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Android
+    - Kotlin
+    - Kotlin Multiplatform Mobile
+categories:
+    - Projects
 ---
 
 ![animo](animo.webp)

@@ -1,19 +1,15 @@
 ---
 title: "Hexy: My Journey into Hexapod Robotics"
-slug: "hexy"
+image: hexy.gif
 date: 2019-12-10
-draft: false
-description: 'A small hexapod robot for learning inverse kinematics.'
+description: A small hexapod robot for learning inverse kinematics.
 tags:
-  - Robotics
-  - C++
-  - Arduino
-  - Inverse Kinematics
-  - Fun Project
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Robotics
+    - C++
+    - Arduino
+    - Inverse Kinematics
+categories:
+    - Spare time projects
 ---
 
 ![Hexy in action](hexy.gif)

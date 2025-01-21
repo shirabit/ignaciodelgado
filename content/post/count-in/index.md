@@ -1,19 +1,15 @@
 ---
 title: "CountIn: Real-Time Occupancy Management"
-slug: "countin"
+image: countIn.webp
 date: 2024-04-28
-draft: false
-description: 'Streamline event management with real-time occupancy tracking and staff coordination.'
+description: Streamline event management with real-time occupancy tracking and staff coordination
 tags:
-  - Android
-  - Kotlin
-  - Graphic Design
-  - UX/UI Design
-  - Fun Project
-author: Nacho Loyola
-scrolltotop: true
-toc: true
-mathjax: false
+    - Android
+    - Kotlin
+    - Graphic Design
+    - UX/UI Design
+categories:
+    - Projects
 ---
 
 ![CountIn](countIn.webp)

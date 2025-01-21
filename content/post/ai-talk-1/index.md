@@ -1,19 +1,16 @@
----
-title: "AI Talk at Hackerspace (part 1)"
-slug: "ai-talk-hackerspace"
+--- 
+title: AI Talk at Hackerspace
+image: ai.webp
 date: 2024-04-28
-draft: false
-featuredImg: "ai.webp"
-description: 'Introductory talk on Generative AI at Hackerspace Valencia'
+description: Introductory talk on Generative AI at Hackerspace Valencia
 tags:
-  - LLMs
-  - Public Speaking
-  - Python
-author: Nacho Loyola
-scrolltotop: true
-toc: false
-mathjax: false
+    - LLMs
+    - Public Speaking
+    - Python
+categories:
+    - Talks 
 ---
+
 
 ![AI](ai.webp "AI Talk")
 
