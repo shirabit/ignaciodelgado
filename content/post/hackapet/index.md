@@ -1,5 +1,5 @@
 ---
-title: 'Hackapet: Altruistic Software for Animal Shelters'
+title: 'Hackapet: Software for Animal Shelters'
 image: hackapet.webp
 date: 2025-01-01
 description: An overview of the Hackapet project
@@ -10,7 +10,7 @@ tags:
 
 # [https://hackapet.org](https://hackapet.org)
 
-Hackapet is an altruistic software development project designed to assist animal shelters and help programmers who are looking to get experience.
+Hackapet is an software development project designed to assist animal shelters and help programmers who are looking to get experience.
 I am the main leader, and it is mainly organized by us at the Hackerspace Valencia. We are a team of more than 16 members, interdisciplinary with DevOps, Development (Mobile, and Web), Management, and Desing.
 
 The project is divided into three main phases:

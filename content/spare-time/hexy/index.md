@@ -1,6 +1,5 @@
 ---
 title: "Hexy: My Journey into Hexapod Robotics"
-image: hexy.gif
 date: 2019-12-10
 description: A small hexapod robot for learning inverse kinematics.
 tags:
