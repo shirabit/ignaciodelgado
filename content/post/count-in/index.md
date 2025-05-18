@@ -3,6 +3,7 @@ title: "CountIn – Real-Time Event Occupancy Tracker for Android"
 image: countIn.webp
 date: 2024-04-28
 description: CountIn is an Android app that tracks venue occupancy in real-time to ensure crowd safety and staff coordination at events.
+url: "/p/real-time-event-occupancy/"
 tags:
     - Event Tech
     - Android App

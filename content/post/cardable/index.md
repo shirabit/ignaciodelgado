@@ -3,6 +3,7 @@ title: "Cardable – Digital Business Card App with NFC & QR Code Integration"
 image: Cardable.webp
 date: 2023-08-21
 description: Cardable is a contact-sharing app that replaces paper business cards with eco-friendly, NFC-enabled digital alternatives.
+url: "/p/digital-business-card-app/"
 tags:
     - Android App
     - NFC Technology
