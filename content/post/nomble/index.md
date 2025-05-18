@@ -1,12 +1,14 @@
 ---
-title: "Nomble: Find the Perfect Baby Name"
+title: "Nomble – Baby Name Search Engine with Insights & Trends"
 image: Nomble.webp
 date: 2023-08-17
-description: A comprehensive platform for discovering and exploring baby names.
+description: Nomble is a web platform that helps parents discover baby names with meaning, popularity trends, and compatibility tools.
 tags:
-    - Web Application
-    - NextJS
-    - HTML/CSS
+    - Web App
+    - Baby Names
+    - Onomastics
+    - Parenting Tools
+    - Next.js
 categories:
     - Projects
 ---

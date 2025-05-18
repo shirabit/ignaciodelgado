@@ -1,11 +1,14 @@
 ---
-title: 'Hackapet: Software for Animal Shelters'
+title: 'Hackapet – Open Source Software for Animal Shelters & Adoptions'
 image: hackapet.webp
 date: 2025-01-01
-description: An overview of the Hackapet project
+description: Hackapet is a community-driven project offering digital tools to manage animal shelters, online adoptions, and post-adoption monitoring.
 tags:
-  - Software Development
-  - Leadership
+  - Open Source
+  - Animal Welfare
+  - Shelter Management
+  - Web App
+  - Community Tech
 ---
 
 # [https://hackapet.org](https://hackapet.org)

@@ -1,12 +1,13 @@
 ---
-title: "animo: A mood tracking app"
+title: "Animo – Mood Tracking App for Mental Health Support"
 image: animo.webp
 date: 2021-10-14
-description: A mood tracking app.
+description: Animo is an Android app that streamlines therapy with digital mood tracking and exercises, improving patient-therapist engagement.
 tags:
-    - Android
-    - Kotlin
-    - Kotlin Multiplatform Mobile
+    - Mental Health
+    - Android App
+    - Patient Engagement
+    - Mobile Health
 categories:
     - Projects
 ---
